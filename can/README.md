@@ -1,3 +1,3 @@
 ## Can
 
-<img src="https://github.com/inots/3DModeling/blob/main/WonderLogo/2020-08%20(1).png" width=200><br>
+<img src="https://github.com/inots/3DModeling/blob/main/can/can.png" width=200><br>
