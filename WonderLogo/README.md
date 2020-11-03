@@ -1,3 +1,3 @@
 ## Wonder Logo
 
-<img src="https://recordit.co/2ejU6XXgHf.gif" width=200><br>
+<img src="https://github.com/inots/3DModeling/blob/main/WonderLogo/2020-08%20(1).png" width=200><br>
