@@ -1,1 +1,1 @@
-README for Wonder Logo
+# Wonder Logo
